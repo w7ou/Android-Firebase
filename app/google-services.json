@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639931823344",
+    "firebase_url": "https://webteaching-8343a-default-rtdb.firebaseio.com",
+    "project_id": "webteaching-8343a",
+    "storage_bucket": "webteaching-8343a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639931823344:android:845f180655dc4e6ff6fe35",
+        "android_client_info": {
+          "package_name": "com.example.firebase_storage_y"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639931823344-bbo6ht0g04je3991npfvhe3a2cg65dal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn48vr7KneoWbonTdsz3_KlL9XwQ_YJs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639931823344-bbo6ht0g04je3991npfvhe3a2cg65dal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
